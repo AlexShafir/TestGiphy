@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestGiphy</string>
+    <string name="section_show">Show Image</string>
+    <string name="search_hint">Enter search text</string>
+</resources>
